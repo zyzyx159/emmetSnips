@@ -1,0 +1,7 @@
+{
+    "html":{
+        "Snippets":{
+            "img:l": "img[width height loading='lazy]"
+        }
+    }
+}
