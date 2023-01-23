@@ -2,7 +2,9 @@
     "html": {
       "snippets": {
         "img:l": "img[width height loading='lazy']",
-        "lab:txt": "<label for=\"${1}\">\"${2}\"</label>${newline}<input type=\"text\" name=\"${3}\" id=\"${4}\">"
+        "lab:txt": "<label for=\"${1}\">${2}</label>${newline}<input type=\"text\" name=\"${3}\" id=\"${4}\">",
+        "table": "<table>${newline}<tr>${newline}<th>${1}</th>${newline}</tr>${newline}<tr>${newline}<td>${2}</td>${newline}</tr>${newline}</table>",
+        "lh": "<lh>${1}</lh>"
       }
     }
   }
