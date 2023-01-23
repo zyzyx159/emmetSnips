@@ -1,0 +1,9 @@
+{
+    "html": {
+      "snippets": {
+        "img:l": "img[width height loading='lazy']",
+        "lab:txt": "<label for=\"${1}\">\"${2}\"</label>${newline}<input type=\"text\" name=\"${3}\" id=\"${4}\">"
+      }
+    }
+  }
+  
